@@ -102,7 +102,7 @@ print (nbImages, "images found");
 nbSlots = 24;
 
 # number of cards
-nbCards = 1;
+nbCards = 40;
 
 # number of rows
 nbRows = 5;
